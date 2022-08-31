@@ -1,4 +1,6 @@
 #!/bin/bash
-root@17d5d41af0c7:/alx-system_engineering-devops/0x00-shell_basics# pwd                                      
-/alx-system_engineering-devops/0x00-shell_basics 
+$ ./0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics
+$
+
 
